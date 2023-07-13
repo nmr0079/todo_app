@@ -22,15 +22,15 @@ The TodoList app is a simple web application that allows users to manage their t
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/todolist.git`
-2. Navigate to the frontend directory: `cd todolist/frontend`
+1. Clone the repository: `git clone https://github.com/nmr0079/todo_app.git`
+2. Navigate to the frontend directory: `cd todo_app/frontend`
 3. Install frontend dependencies: `npm install`
 4. Start the frontend development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
 
 ### Configuration
 
-1. Navigate to the backend directory: `cd todolist/backend`
+1. Navigate to the backend directory: `cd todo_app/backend`
 2. Create a `.env` file based on the provided `.env.example` file.
 3. Update the environment variables in the `.env` file with your configuration.
 
